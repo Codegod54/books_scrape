@@ -11,3 +11,12 @@
 # git commit -m "message" => to commit the files to the repository
 # copy paste git code from github and paste it in git bash
 
+
+########
+code change
+git add . 
+git commit -m "initial commit"
+git push 
+########
+
+
