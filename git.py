@@ -20,3 +20,4 @@ git push
 ########
 
 
+git checkout -b "branchname" => to create a new branch
